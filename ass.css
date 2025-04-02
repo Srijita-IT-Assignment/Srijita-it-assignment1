@@ -1,0 +1,264 @@
+@font-face{font-family:monument extended;font-style:normal;font-weight:400;src:local('Monument Extended'),url(https://fonts.cdnfonts.com/s/19595/MonumentExtended-Regular.woff) format('woff')}@font-face{font-family:monument extended;font-style:normal;font-weight:800;src:local('Monument Extended'),url(https://fonts.cdnfonts.com/s/19595/MonumentExtended-Ultrabold.woff) format('woff')}
+
+
+#container {
+    display: inline-block; /* Makes the elements stay in one line */
+    padding-left: 40px;  /* Adjust spacing */
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    white-space: nowrap;/*prevents in going to next line*/
+}
+#alphabet {
+    display: inline-block; /* Makes the elements stay in one line */
+    padding-left: 10px;
+    padding-top: 2px;  /* Adjust spacing */
+    font-size: 18px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    white-space: nowrap;/*prevents in going to next line*/
+}
+#b1{
+    padding-right: 20px;
+}#b2{
+    padding-right: 20px;
+}
+#b3{
+    padding-right: 20px;
+}
+#b4{
+    padding-right: 20px;
+}#b5{
+    padding-right: 20px;
+
+}
+#b6{
+    padding-right: 20px;
+
+}
+#b7{
+    padding-right: 20px;
+
+}
+#b8{
+    padding-right: 20px;
+    color: rgb(124, 122, 120);
+
+}
+#b9{
+    padding-right: 20px;
+
+}
+#b10{
+    padding-right: 20px;
+    color: rgb(124, 122, 120);
+
+}
+#b11{
+    padding-right: 20px;
+}
+#b12{
+    padding-right: 20px;
+
+}
+#b13{
+    padding-right: 20px;
+
+}
+#b14{
+    padding-right: 20px;
+    color: rgb(124, 122, 120);
+
+}
+#b15{
+    padding-right: 20px;
+
+}
+#b16{
+    padding-right: 20px;
+
+}
+#b17{
+    padding-right: 20px;
+    color: rgb(124, 122, 120);
+
+}
+#b18{
+    padding-right: 20px;
+
+}
+#b19{
+    padding-right: 20px;
+
+}
+#b20{
+    padding-right: 20px;
+
+}
+#b21{
+    padding-right: 20px;
+color: rgb(124, 122, 120);
+}
+#b22{
+    padding-right: 20px;
+
+}
+#b23{
+    padding-right: 20px;
+
+}
+#b24{
+    padding-right: 20px;
+
+}
+#b25{
+    padding-right: 20px;
+
+}
+#b26{
+    padding-right: 20px;
+
+}
+#a{
+    padding-left: 0px;
+    vertical-align: top;
+}
+#a1 { padding-left: 90px;
+padding-right: 0px;
+font-family: Monument extended;
+font-weight: bold;
+font-size: larger;
+font-size: 30px;
+
+} 
+#b0{
+    padding-left: 200px;
+    padding-right: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: large;
+ }
+ 
+#textoverlay{
+    font-family: Monument extended;
+    color: rgb(255, 255, 255);
+font-weight: bold;
+font-size: larger;
+font-size: 68px;
+margin-left: 188px;
+padding-bottom:160px;
+position: absolute;
+margin-top: -280px;
+}
+#text{
+    font-size: 25.8px;
+    margin-top: -60.9px;
+text-align: top; 
+color: white;  
+ margin-left: 188px;
+    position: absolute;
+
+
+}
+
+#wb{
+    margin-left:170px;
+ margin-right: 0px;
+ margin-top: 0.02px;
+ width: 76%;}
+#a2{
+padding-right: 180px;
+padding-left: 180px;
+font-weight: bold;
+font-size: 20px;
+}
+
+#a3{
+padding-right: 180px;
+font-weight: bold;
+font-size: 20px;
+
+
+}
+#a4{
+padding-right: 180px;
+font-weight: bold;
+font-size: 20px;
+
+}
+#a5{
+    font-weight: bold;
+    font-size: 20px;
+}
+#b {
+    font-size: 12px;
+    padding-left: 189px;
+    line-height: 0.003px;
+    padding-top: 0px; /* Set to 0 or remove */
+    margin-top: -3px; /* Moves the element upwards */
+}
+#imagealign{
+    display:flex;
+    padding-left: 90px;
+    padding-top: 55.9px;
+}
+#ab1{
+    padding-left: 50px;
+}
+#textbolder{
+    font-weight: bold;
+    padding-left: 950px;
+  
+    margin-left: -22px;
+    font-size: 30px;
+   margin-top: -160px;
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#t1{
+    padding-left: 1300px;
+  
+    margin-top: -199px;
+    margin-left: -66px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#ab{
+    padding-left: 90px;
+    padding-right: 90px;
+   object-fit: cover;
+
+}
+#t3{
+    
+margin-bottom: 200px;
+padding-left: 800px;
+gap: 100px;
+}
+
+#scroll {
+    display: flex;
+    overflow-x: hidden; 
+    padding-top: 30px;
+    padding-bottom: 50px;
+    gap: 45px;
+    width: 100%;
+    background: white;
+    white-space: nowrap;
+    
+}
+#profile {
+    padding-top: 700px;
+    text-align: center;
+    flex-shrink: 0;
+}
+
+#profile img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%; /* Makes the image circular */
+    object-fit: cover;
+}
+
+#profile p {
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: bold;
+}
